@@ -20,7 +20,7 @@ and talk to us on IRC:
 
 >  #gaia on irc.mozilla.org
 
-## Hacking Gaia
+## Hacking Gaia!
 
 [The Gaia/Hacking page on MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Platform/Gaia/Hacking) has all the information that you need to start working on Gaia, including building and running Gaia on a compatible device or desktop computer.
 
